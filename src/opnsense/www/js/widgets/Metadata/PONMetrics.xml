@@ -6,6 +6,7 @@
         </endpoints>
         <translations>
             <title>PON Metrics</title>
+            <display_metrics>Display Metrics</display_metrics>
             <cpu_temps>CPU Temperatures</cpu_temps>
             <cpu_temp1>CPU 1 Temperature</cpu_temp1>
             <cpu_temp2>CPU 2 Temperature</cpu_temp2>
