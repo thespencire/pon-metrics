@@ -1,0 +1,14 @@
+<form>
+    <field>
+        <id>ponmetrics.ont_ip</id>
+        <label>ONT IP Address</label>
+        <type>text</type>
+        <help>The IP address of your ONT (default 192.168.11.1)</help>
+    </field>
+    <field>
+        <id>ponmetrics.warn_temp</id>
+        <label>Temperature Threshold</label>
+        <type>text</type>
+        <help>Text will turn red above this value. (default 70C)</help>
+    </field>
+</form>

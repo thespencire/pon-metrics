@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<model>
+    <mount>//OPNsense/ponmetrics</mount>
+    <description>PON Metrics Settings</description>
+    <version>1.0.0</version>
+    <items>
+        <ont_ip type="TextField">
+            <Default>192.168.11.1</Default>
+            <Mask>/^([0-9]{1,3}\.){3}[0-9]{1,3}$/</Mask>
+            <ValidationMessage>Please enter a valid IPv4 address.</ValidationMessage>
+            <Required>Y</Required>
+        </ont_ip>
+        <warn_temp type="NumericField">
+            <Default>70</Default>
+            <ValidationMessage>Enter a valid float.</ValidationMessage>
+        </warn_temp>
+    </items>
+</model>

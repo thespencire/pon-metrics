@@ -1,0 +1,21 @@
+<metadata>
+    <ponmetrics>
+        <filename>PONMetrics.js</filename>
+        <endpoints>
+            <endpoint>/api/ponmetrics/metrics/*</endpoint>
+        </endpoints>
+        <translations>
+            <title>PON Metrics</title>
+            <cpu_temps>CPU Temperatures</cpu_temps>
+            <cpu_temp1>CPU 1 Temperature</cpu_temp1>
+            <cpu_temp2>CPU 2 Temperature</cpu_temp2>
+            <optic_temp>Optic Temperature</optic_temp>
+            <voltage>Voltage</voltage>
+            <rx_power>RX Power</rx_power>
+            <tx_power>TX Power</tx_power>
+            <tx_bias>TX Bias</tx_bias>
+            <ploam>PLOAM State</ploam>
+            <unconfigured>Connection Error</unconfigured>
+        </translations>
+    </ponmetrics>
+</metadata>

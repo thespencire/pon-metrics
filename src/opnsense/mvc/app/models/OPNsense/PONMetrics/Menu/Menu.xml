@@ -1,0 +1,5 @@
+<menu>
+    <Reporting>
+        <PONMetrics VisibleName="PON Metrics" url="/ui/ponmetrics/settings" cssClass="fa fa-tachometer"/>
+    </Reporting>
+</menu>

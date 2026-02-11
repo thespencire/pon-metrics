@@ -1,0 +1,9 @@
+<acl>
+    <page-reporting-ponmetrics>
+        <name>Reporting: PON Metrics: Settings</name>
+        <patterns>
+            <pattern>ui/ponmetrics/settings</pattern>
+            <pattern>api/ponmetrics/*</pattern>
+        </patterns>
+    </page-reporting-ponmetrics>
+</acl>
